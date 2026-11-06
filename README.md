@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!-# Hi, I'm Divyanshi Singh! 👋
+# Hi, I'm Divyanshi Singh! 👋
 
 ### Aspiring AI/ML Engineer | Data Science Enthusiast
 
