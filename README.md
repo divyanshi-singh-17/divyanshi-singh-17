@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**divyanshi-singh-17/divyanshi-singh-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-# Hi, I'm Divyanshi Singh! 👋
 
-Here are some ideas to get you started:
+### Aspiring AI/ML Engineer | Data Science Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Mathematics graduate from CSJMU with a strong interest in Artificial Intelligence, Machine Learning, and Data Science.
+
+I have completed a one-year Data Science Professional Course from DUCAT, Gurgaon.
+
+### 💻 Technical Skills
+- Python
+- SQL & MongoDB
+- NumPy & Pandas
+- Power BI
+- Machine Learning
+- Data Science
+
+### 🎯 Career Goal
+Aspiring to become an AI/ML Engineer and continuously develop my technical and problem-solving skills.
+
+### 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/divyanshi-singh17/)
+- [GitHub](https://github.com/divyanshi-singh-17)-
+  
